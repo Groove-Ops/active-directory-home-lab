@@ -16,6 +16,8 @@
 
 ## 📌 3. Implementacion
 
+![Server Dashboard](./img/foto3.jpg)
+
 ### AD Setup
 
 - Creacion de Dominio
@@ -23,6 +25,8 @@
 - Clientes habilitados
 
 ### Usuarios y Grupos
+
+![Usuarios](./img/foto2.jpg)
 
 - Creado grupo "IT"
 - Usuarios creados "Juan, Maria"
@@ -39,6 +43,8 @@
     - H: mapeado al home user
 
 ### GPO
+
+![GPO](./img/foto1.jpg)
 
 - Panel de control deshabilitado 
 - Aplicado al Dominio
